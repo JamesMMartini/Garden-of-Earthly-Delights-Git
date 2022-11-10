@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56496ae284ab31441a4f29287931580e, type: 3}
+  m_Name: Dandelion Responses
+  m_EditorClassIdentifier: 
+  type: 0
+  lines:
+  - A hearty fellow, I see. Migratory and all about your fun little waterslides.
+  - Hehehe, I like it. Spiky and a big presence when you're angry.
+  - That's not a fish! Well, I guess it is pretty cute, though. Okay, I'll allow
+    it.
+  next:
+  - {fileID: 11400000, guid: b9af21d678ed7f347b7e84eec8921519, type: 2}
+  animationTrigger: Talking 2

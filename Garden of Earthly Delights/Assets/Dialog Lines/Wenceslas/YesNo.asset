@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56496ae284ab31441a4f29287931580e, type: 3}
+  m_Name: YesNo
+  m_EditorClassIdentifier: 
+  type: 1
+  lines:
+  - Truly you could, good sir!
+  - Alas, I have other matters to attend to first.
+  next:
+  - {fileID: 11400000, guid: f8ff00ffd3cc52346ade17333f04ac8f, type: 2}
+  animationTrigger: 
+  hasOutcome: 0
